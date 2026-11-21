@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Adaptive icon foreground: lightning bolt (energy) inside a water drop -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Water drop -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 C54,26 34,50 34,63 C34,74.05 42.95,83 54,83 C65.05,83 74,74.05 74,63 C74,50 54,26 54,26 Z" />
+
+    <!-- Lightning bolt -->
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M57,46 L45,65 L53,65 L50,78 L63,58 L55,58 Z" />
+</vector>
